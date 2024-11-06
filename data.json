@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Product A",
+    "price": 29.99,
+    "description": "This is an amazing product that will improve your life."
+  },
+  {
+    "id": 2,
+    "name": "Product B",
+    "price": 19.99,
+    "description": "An affordable product with great value."
+  },
+  {
+    "id": 3,
+    "name": "Product C",
+    "price": 49.99,
+    "description": "High-quality product with premium features."
+  },
+  {
+    "id": 4,
+    "name": "Product D",
+    "price": 9.99,
+    "description": "A basic product for everyday needs."
+  },
+  {
+    "id": 5,
+    "name": "Product E",
+    "price": 39.99,
+    "description": "Ideal for both beginners and professionals."
+  },
+  {
+    "id": 6,
+    "name": "Product F",
+    "price": 59.99,
+    "description": "High-performance product for demanding tasks."
+  },
+  {
+    "id": 7,
+    "name": "Product G",
+    "price": 15.99,
+    "description": "Affordable and reliable."
+  },
+  {
+    "id": 8,
+    "name": "Product H",
+    "price": 25.99,
+    "description": "A popular choice among customers."
+  }
+]
